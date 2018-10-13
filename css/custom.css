@@ -817,3 +817,6 @@ figure {
 		min-height: 34px;
 	}
 }
+.overlay-hugeinc.open{
+	z-index: 1;
+}
