@@ -820,3 +820,8 @@ figure {
 .overlay-hugeinc.open{
 	z-index: 1;
 }
+
+.main-nav a
+{
+	font-size: 15px;
+}
